@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/atafathi/atafathi.github.io/posts/index.html</loc>
+    <lastmod>2023-02-13T20:38:15.447Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/atafathi/atafathi.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-02-13T20:28:17.571Z</lastmod>
+    <lastmod>2023-02-13T20:38:15.697Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/atafathi/atafathi.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-02-13T20:28:18.221Z</lastmod>
+    <lastmod>2023-02-13T20:38:15.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/atafathi/atafathi.github.io/posts/hello-world/index.html</loc>
+    <lastmod>2023-02-13T20:38:16.197Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/atafathi/atafathi.github.io/about.html</loc>
-    <lastmod>2023-02-13T20:28:18.471Z</lastmod>
+    <lastmod>2023-02-13T20:38:16.437Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/atafathi/atafathi.github.io/index.html</loc>
-    <lastmod>2023-02-13T20:28:18.781Z</lastmod>
+    <lastmod>2023-02-13T20:38:16.727Z</lastmod>
   </url>
 </urlset>
