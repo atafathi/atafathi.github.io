@@ -25,7 +25,7 @@
     "href": "posts/hello-world/index.html",
     "title": "Hello World",
     "section": "",
-    "text": "print('hello world')\n\nhello world"
+    "text": "print('hello world  from hello world post')\n\nhello world"
   },
   {
     "objectID": "about.html",
