@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Hello World",
-    "section": "",
-    "text": "print('hello world from welcome')\n\nhello world"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -25,6 +11,6 @@
     "href": "index.html",
     "title": "atafathi.github.io",
     "section": "",
-    "text": "Hello World\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2023\n\n\nAta Fathi\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 13, 2023\n\n\nAta Fathi\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   }
 ]
