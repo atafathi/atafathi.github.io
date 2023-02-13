@@ -4,7 +4,7 @@
     "href": "posts/index.html",
     "title": "Hello World",
     "section": "",
-    "text": "print('hello world')\n\nhello world"
+    "text": "print('hello world from welcome')\n\nhello world"
   },
   {
     "objectID": "posts/welcome/index.html",
